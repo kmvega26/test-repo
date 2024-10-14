@@ -1,0 +1,15 @@
+/Users/kayamaevega/Desktop/mis 221/test/exam 1 prep/bin/Debug/net8.0/exam 1 prep
+/Users/kayamaevega/Desktop/mis 221/test/exam 1 prep/bin/Debug/net8.0/exam 1 prep.deps.json
+/Users/kayamaevega/Desktop/mis 221/test/exam 1 prep/bin/Debug/net8.0/exam 1 prep.runtimeconfig.json
+/Users/kayamaevega/Desktop/mis 221/test/exam 1 prep/bin/Debug/net8.0/exam 1 prep.dll
+/Users/kayamaevega/Desktop/mis 221/test/exam 1 prep/bin/Debug/net8.0/exam 1 prep.pdb
+/Users/kayamaevega/Desktop/mis 221/test/exam 1 prep/obj/Debug/net8.0/exam 1 prep.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kayamaevega/Desktop/mis 221/test/exam 1 prep/obj/Debug/net8.0/exam 1 prep.AssemblyInfoInputs.cache
+/Users/kayamaevega/Desktop/mis 221/test/exam 1 prep/obj/Debug/net8.0/exam 1 prep.AssemblyInfo.cs
+/Users/kayamaevega/Desktop/mis 221/test/exam 1 prep/obj/Debug/net8.0/exam 1 prep.csproj.CoreCompileInputs.cache
+/Users/kayamaevega/Desktop/mis 221/test/exam 1 prep/obj/Debug/net8.0/exam 1 prep.sourcelink.json
+/Users/kayamaevega/Desktop/mis 221/test/exam 1 prep/obj/Debug/net8.0/exam 1 prep.dll
+/Users/kayamaevega/Desktop/mis 221/test/exam 1 prep/obj/Debug/net8.0/refint/exam 1 prep.dll
+/Users/kayamaevega/Desktop/mis 221/test/exam 1 prep/obj/Debug/net8.0/exam 1 prep.pdb
+/Users/kayamaevega/Desktop/mis 221/test/exam 1 prep/obj/Debug/net8.0/exam 1 prep.genruntimeconfig.cache
+/Users/kayamaevega/Desktop/mis 221/test/exam 1 prep/obj/Debug/net8.0/ref/exam 1 prep.dll

@@ -1,0 +1,15 @@
+/Users/kayamaevega/Desktop/mis 221/test/PA-2 /bin/Debug/net8.0/PA-2
+/Users/kayamaevega/Desktop/mis 221/test/PA-2 /bin/Debug/net8.0/PA-2.deps.json
+/Users/kayamaevega/Desktop/mis 221/test/PA-2 /bin/Debug/net8.0/PA-2.runtimeconfig.json
+/Users/kayamaevega/Desktop/mis 221/test/PA-2 /bin/Debug/net8.0/PA-2.dll
+/Users/kayamaevega/Desktop/mis 221/test/PA-2 /bin/Debug/net8.0/PA-2.pdb
+/Users/kayamaevega/Desktop/mis 221/test/PA-2 /obj/Debug/net8.0/PA-2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kayamaevega/Desktop/mis 221/test/PA-2 /obj/Debug/net8.0/PA-2.AssemblyInfoInputs.cache
+/Users/kayamaevega/Desktop/mis 221/test/PA-2 /obj/Debug/net8.0/PA-2.AssemblyInfo.cs
+/Users/kayamaevega/Desktop/mis 221/test/PA-2 /obj/Debug/net8.0/PA-2.csproj.CoreCompileInputs.cache
+/Users/kayamaevega/Desktop/mis 221/test/PA-2 /obj/Debug/net8.0/PA-2.sourcelink.json
+/Users/kayamaevega/Desktop/mis 221/test/PA-2 /obj/Debug/net8.0/PA-2.dll
+/Users/kayamaevega/Desktop/mis 221/test/PA-2 /obj/Debug/net8.0/refint/PA-2.dll
+/Users/kayamaevega/Desktop/mis 221/test/PA-2 /obj/Debug/net8.0/PA-2.pdb
+/Users/kayamaevega/Desktop/mis 221/test/PA-2 /obj/Debug/net8.0/PA-2.genruntimeconfig.cache
+/Users/kayamaevega/Desktop/mis 221/test/PA-2 /obj/Debug/net8.0/ref/PA-2.dll
